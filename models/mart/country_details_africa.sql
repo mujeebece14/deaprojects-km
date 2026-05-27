@@ -15,7 +15,7 @@ config
  
 
 WITH country_details_africa AS
-
+  
 (
 
 SELECT
